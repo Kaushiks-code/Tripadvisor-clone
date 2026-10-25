@@ -66,9 +66,4 @@ Through this project, I practised:
 
 This is a personal frontend practice project inspired by Tripadvisor's website. It is not affiliated with or endorsed by Tripadvisor. The project is for educational purposes only.
 
-## Author
-
-**Your Name**
-
-GitHub: [Your GitHub Profile](https://github.com/)
 
